@@ -1,0 +1,138 @@
+BOOKED SOLID LIBRARY MANAGEMENT SYSTEM
+
+How it works:
+1. Add books to the library - (whats a library without books?)
+2. Allow people/customers to have a login 
+3. Browse for book titles
+4. Have a few free book titles
+5. Find the book they want along with a small description, author, and rating
+6. Allow customers/users to add the books to their list
+7. Give the customer the option to borrow/buy the book
+8. mpesa prompt/card
+9. Allow customers to review the book 
+
+First I'll start with a simple system using python OOP ON main.py 
+
+The search for a book will have to include the book and the author.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+date: 11/19/2026
+I made a rugged version of the library system. It works well enough. 
+I need to slowly add a few more things after doing some research. 
