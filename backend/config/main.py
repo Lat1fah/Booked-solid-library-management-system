@@ -95,13 +95,3 @@ while True: #I HATE using the while loop.
     elif choice=="7":
         print("Thank you! ")
         break 
-
-
-git rm --cached backend
-rm -rf backend/.git
-git add .
-
-git rm -r --cached env
-printf "env/\n__pycache__/\n*.pyc\n.env\ndb.sqlite3\n" > .gitignore
-git add .
-git status
